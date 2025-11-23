@@ -1,0 +1,27 @@
+<?xml version='1.0' standalone='yes'?>
+<rss xmlns:sparkle='http://www.andymatuschak.org/xml-namespaces/sparkle' version='2.0'>
+    <channel>
+        <title>Launchpad</title>
+    <item>
+            <title>1.0</title>
+            <pubDate>Sun, 23 Nov 2025 22:15:56 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure sparkle:edSignature='lWU9ULobJuH8K3PbMJR1QU8tEe1nhCZroGd+hHM0iA5wyTBIjJ+/0pYLZonWhP0jrg9J7LWdPeGZNKkmXt3GAw==' length='4245044' type='application/octet-stream' url='https://drive.google.com/uc?export=download&amp;id=1AnFYOAeFf18Tq4B3rVa3DmJKltSVW7ab'/>
+        </item><item>
+            <title>1.0</title>
+            <pubDate>Sun, 23 Nov 2025 22:10:20 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure sparkle:edSignature='uafVaKcc7q6e6YqFV2JC+mP/LrsUh9512btIpzVSIzkwyDfoIjxRbavkM8HBPLnxwnuX1BnvbwTvmMlCNTVMDA==' length='4245068' type='application/octet-stream' url='https://drive.google.com/uc?export=download&amp;id=1mIkk5jJxvAjcBDoNbxpIm3SkYewdiBTD'/>
+        </item><item>
+            <title>1.0</title>
+            <pubDate>Sun, 23 Nov 2025 22:02:42 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure sparkle:edSignature='0xH0cfwEMSrBNzOcdD+ry9qq7QqDVymbGcXhnekPexV13HXTkTMAzf0IjTLct/WwLZpFkKQdeVWzMlHKfggcDA==' length='4245014' type='application/octet-stream' url='https://drive.google.com/uc?export=download&amp;id=1docLgX0rHOtZ3mnQesujQPe_rADgcsEh'/>
+        </item></channel>
+</rss>
