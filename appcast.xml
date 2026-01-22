@@ -3,6 +3,14 @@
   <channel>
     <title>Launchpad</title>
     <item>
+      <title>2026.01.22.2036</title>
+      <pubDate>Thu, 22 Jan 2026 20:36:49 +0200</pubDate>
+      <sparkle:version>2026.01.22.2036</sparkle:version>
+      <sparkle:shortVersionString>2026.01.22.2036</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url='https://drive.google.com/uc?export=download&amp;id=1Dmpi786ffy5n-fERBh5C-j6kdKEnK7DE' length='8320385' type='application/octet-stream' sparkle:edSignature='7pKhG2iVeKNIa+8bouZt2XaHc1Fq1ARXcn2Vuv7c0r489eEWx3I5pVyy+hu3Xyff3yfUeTwY06k62Z8blth0Bg=='/>
+    </item>
+    <item>
       <title>2026.01.18.2331</title>
       <pubDate>Sun, 18 Jan 2026 23:31:40 +0200</pubDate>
       <sparkle:version>2026.01.18.2331</sparkle:version>
